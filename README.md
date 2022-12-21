@@ -1,6 +1,5 @@
-# Magisk WiFi Bonding
 
-Double your bandwith on your Qualcomm devices!
+Double your bandwith on your Qualcomm devices!!!
 
 在「高通设备」上以40Mhz运行2.4Ghz/5.0Ghz的Wifi。
 
